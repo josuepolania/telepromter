@@ -67,7 +67,7 @@ entrada_texto.insert("1.0", texto_a_mostrar)
 
 ventana.mainloop()
 
-
+#presionar f5 para ejecutar la aplicacion.
 
 
 
